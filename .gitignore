@@ -342,3 +342,7 @@ healthchecksdb
 
 # React JS Cache Files
 .eslintcache
+
+
+# Batch File Runner
+run.bat
