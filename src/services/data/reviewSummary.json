@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "username": "Sheldon",
+      "review": "Nice product!",
+      "rating": 5,
+      "date": 1596470400
+    },
+    {
+      "username": "Leonard",
+      "review": "Good quality. Will buy again",
+      "rating": 5,
+      "date": 1596556800
+    },
+    {
+      "username": "Penny",
+      "review": "Damaged when arrived. Will never purchase again.",
+      "rating": 3,
+      "date": 1596556800
+    },
+    {
+      "username": "Raj",
+      "review": "Thanks, Lazapee!",
+      "rating": 4,
+      "date": 1596556800
+    },
+    {
+      "username": "Howard",
+      "review": "Thanks, Lazapee! Number one!",
+      "rating": 5,
+      "date": 1596556800
+    }
+  ]
+}

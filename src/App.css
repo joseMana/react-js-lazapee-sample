@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+p,
+label {
+  margin: 10px;
+  font-size: small;
+}
+
+.App > :nth-child(2) {
+  margin-top: 0px;
+}
+
+button {
+  font-size: 12px;
+  margin-left: 10px;
+}
